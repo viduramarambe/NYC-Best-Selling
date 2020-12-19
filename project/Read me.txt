@@ -1,0 +1,12 @@
+In order to run this project locally, create a .env.local file with your New York Times API key:
+
+REACT_APP_NYT_APP_KEY=
+
+Then, run the following commands to install and serve the project:
+
+npm install
+npm start
+
+Open the URL bellow to test the app:
+
+http://localhost:3000
